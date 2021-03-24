@@ -136,7 +136,7 @@
     }
 }
 
-// This allows the function to be used on nodesjs or browser
+// This allows the function to be used on nodejs or browser
 try {
     module.exports = { dijkstra };
 } catch (err) {}
