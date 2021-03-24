@@ -1,4 +1,6 @@
 # Dijkstra's algorithm
+###### *shortest path algorithm*
+
 Written in javascript (designed for use with nodejs or browser)
 
 
